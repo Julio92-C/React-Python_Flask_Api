@@ -1,0 +1,3 @@
+[submodule "react-movie-list"]
+	path = react-movie-list
+	url = https://github.com/Julio92-C/react-movie-list.git
